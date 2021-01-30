@@ -1,0 +1,13 @@
+<html>
+ <Body bgcolor="brown">
+  <table border = "3"> 
+   <tr>
+     <td>row one, cell one</td>
+     <td>row one, cell two</td>
+   </tr>
+   <tr>
+     <td>row two, cell one</td>
+     <td>&nbsp;</td>
+   </tr>
+  </table>
+</html>
